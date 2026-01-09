@@ -67,11 +67,16 @@ The following features were engineered to improve volatility prediction:
 - Volatility clustering observation
 - Correlation analysis between volume, liquidity, and volatility
 
-EDA results are available in **EDA_Report.pdf**.
 
-## 📊 Price Trend Analysis
+### 🔹 Price Trend
+![Price Trend](images/price_trend.png)
 
-![Cryptocurrency Price Trend](images/price_trend.png)
+### 🔹 Rolling Volatility
+![Rolling Volatility](images/rolling_volatility.png)
+
+### 🔹 Correlation Heatmap
+![Heatmap](images/correlation_heatmap.png)
+
 
 
 ---
